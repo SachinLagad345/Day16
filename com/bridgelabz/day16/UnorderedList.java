@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class LinkedList {
 
-	private class Node {
+	class Node {
 		String data;
 		Node next;
 
